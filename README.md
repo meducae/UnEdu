@@ -56,10 +56,10 @@
 ## 📱 User Interface Preview
 
 <p align="center">
-  <img src="https://github.com/meducae/UnEdu/blob/main/Mockup1.png" alt="UnEdu Mockup" width="45%">
-    <img src="https://github.com/meducae/UnEdu/blob/main/Mockup2.png" alt="UnEdu Mockup" width="45%">
-  <img src="https://github.com/meducae/UnEdu/blob/main/Mockup3.png" alt="UnEdu Mockup" width="45%">
-  <img src="https://github.com/meducae/UnEdu/blob/main/mockup4.png" alt="UnEdu Mockup" width="45%">
+  <img src="https://github.com/meducae/UnEdu/blob/main/Mockup1.png" alt="UnEdu Mockup" width="20%">
+    <img src="https://github.com/meducae/UnEdu/blob/main/Mockup2.png" alt="UnEdu Mockup" width="20%">
+  <img src="https://github.com/meducae/UnEdu/blob/main/Mockup3.png" alt="UnEdu Mockup" width="20%">
+  <img src="https://github.com/meducae/UnEdu/blob/main/mockup4.png" alt="UnEdu Mockup" width="20%">
 
 </p>
 
